@@ -1,5 +1,3 @@
-# Three-ideas
-
 # Touched with contempt #
 
 (Motion comic)
