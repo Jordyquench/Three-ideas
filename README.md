@@ -96,7 +96,7 @@ This is a bit different from my first idea in this regard, It would be a free ca
 
 **Overview**
 
-My children have always wanted a dog – I don’t – but, as the  “Virtual Mannequin”
+“Virtual Mannequin”
 
 Have you ever been shopping online and see something you like the look of, a t-shirt for example? But you want to know what it would look like with either some other piece of clothing you own or something else you seen while shopping. This app would address this by having a virtual mannequin that you could add clothes to and build your outfit before you actually buy any of it.
 
