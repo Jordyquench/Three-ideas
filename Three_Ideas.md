@@ -1,4 +1,4 @@
-***Touched with contempt***
+#Touched with contempt
 
 (Motion comic)
 
@@ -50,7 +50,7 @@ My first though for the business model would be to create the comic in an episod
 
 In terms of a price point I think making the first episode free and then you can get the others through in-app purchases, would be ideal for me. 
 
-**Save the turtles**
+#Save the turtles
 
 (Campaign)
 
@@ -90,7 +90,7 @@ Kids and young adults, around 10-21 (that could maybe be tightened a bit, it is 
 
 This is a bit different from my first idea in this regard, It would be a free campaign but maybe the option at the start for some crowd funding to get the money for ads and to create the physical products, even if the crowd funding (Gofundme page?) had some exclusive gifts that the people who donated would receive, this might up the likelihood of people donating in the first place.
 
-**Virtual Mannequin **
+#Virtual Mannequin
 
 (Application)
 
