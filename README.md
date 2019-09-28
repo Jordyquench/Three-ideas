@@ -4,7 +4,7 @@
 
 **Overview**
 
-My children have always wanted a dog – I don’t – but, as the old saying goes: “Touched with contempt” ~ Working title
+“Touched with contempt” ~ Working title
 
 I have recently been getting into motion design and this idea came to me when I seen some opening credits on a game I was playing.
 
@@ -56,7 +56,7 @@ In terms of a price point I think making the first episode free and then you can
 
 **Overview**
 
-My children have always wanted a dog – I don’t – but, as the old saying goes: “I don’t have a title for this one yet”
+“I don’t have a title for this one yet”
 
 There are a lot of problems in the world right now, obviously I can’t tackle them all, but if I could make a small change it would give me a sense of fulfilment and if everybody did the same, it wouldn’t be too long until we all start to see a real difference.
 
