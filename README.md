@@ -30,7 +30,7 @@ I would love to create my own score for the comic as well, it is something I hav
 
 - Although I put after effects in a pro, it could also be a con just for the simple fact that my knowledge isn’t as vast as I would like, but this is something I would love to challenge myself in. I have been trying to grow my skills in this field throughout my placement year and this project would be the perfect way for me to take this further.
 - What would I do if I decided to actually build it? I did some initial research by asking a developer in work about the logistics of this and they did give me hope that it wouldn’t be too confusing, so again this would be something I would like to test myself in. 
-- A potential problem is whether or not I use voice in my comic? Do I go with voice acting or do I keep 
+- A potential problem is whether or not I use voice in my comic? Do I go with voice acting or do I keep it simple and just have dialogue boxes? The if I do want to use voice, do I pay for voice actors? Do I do it myself? Or do I just ask friends to help out?
 
 **How might it be built?**
 
