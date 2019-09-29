@@ -34,7 +34,7 @@ I would love to create my own score for the comic as well, it is something I hav
 
 **How might it be built?**
 
-The main thing would be the motion comic itself, like I said before, it would be either a web based application, or an application designed and build for a tablet, I think a phone would be too small to get the full experience.
+The main thing would be the motion comic itself, like I said before, it would be either a web based application, or an application designed and built for a tablet, I think a phone would be too small to get the full experience.
 
 I would do the initial designs on either Illustrator or Photoshop, depending on what the design is, then take those stills into after effects where the motion would be added.
 
